@@ -1,0 +1,12 @@
+﻿#canvas {
+     width: 800px;
+     height:600px;
+     margin: 0px auto;
+     border: 1px solid red;
+   }
+
+#controls {
+     width: 800px;
+     height:600px;
+     margin: 20px auto;
+   }
